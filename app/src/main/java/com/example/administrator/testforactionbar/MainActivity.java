@@ -22,6 +22,9 @@ import android.widget.TextView;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+/**
+ * @author xuweiwei
+ */
 public class MainActivity extends AppCompatActivity {
 
 
